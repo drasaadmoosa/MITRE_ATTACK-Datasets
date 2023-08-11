@@ -1,4 +1,4 @@
-# Security Datasets
+# MITRE ATT&CK Security Datasets
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OTRF/Security-Datasets/master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
